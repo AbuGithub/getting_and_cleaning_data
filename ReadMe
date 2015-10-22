@@ -1,0 +1,11 @@
+The repo contains R script-"run_analysis.R", "a code book", and a brief process description how the script results in a tidy data set.
+
+1) First, set the working directory & download the datasets from the URL given in the project assignment page
+ 2) Unzip the downloaded files under the working directory. The entire dataset and associated files sits in a directory under the working directory.
+ 3) First read the datasets from the "train" subfolder and then read from the "test" subfolder
+ 4) Combine both datasets into a single data frame
+ 5) Extract only variables that represent mean and standard deviation measurements
+ 6). Read the activity label and assign the descriptive activity labels to the combined dataset
+ 7). Reshape the combined dataset based on subject and activity and summarize the mean of all variables
+ 8) Change the hyphenated column labels with simpler texts that becomes the labels for tidy dataset
+ 9) write out the tidy dataset as "tidy.txt"
