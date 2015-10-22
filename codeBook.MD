@@ -5,7 +5,7 @@ The tidy data set comprises of 2 identifiers and 66 measurement variables and 18
 IDENTIFIER VARIABLES:
 -------------------------------------
 SubjectId = subject individual (1:30)
-Activity = various activities the subject performed 
+Activity = 6 different activities the subject performed 
 
 --------------------------------------------------------------------
 MEASURED VARIABLES:
