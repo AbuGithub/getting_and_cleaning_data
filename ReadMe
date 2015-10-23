@@ -9,4 +9,4 @@ The repo contains R script-"run_analysis.R", "a code book", and a brief process 
  with tidy labels by replacing "-,() " etc. and assign back the new labels
  7) Reshape the combined dataset based on subject and activity and summarize the mean of all variables
  8) Change the hyphenated column labels with simpler texts that becomes the labels for tidy dataset
- 9) write out the tidy dataset as "tidy.txt"
+ 9) write out the tidy dataset as "tidyset.txt"
