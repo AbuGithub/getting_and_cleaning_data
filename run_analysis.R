@@ -93,6 +93,6 @@ df_melt = melt(df_sel, c("activity", "subjectid"))
 df_final = dcast(df_melt, subjectid + activity ~variable, mean)
 
 print("..writing final tidy data set...")
-write.table(df_final, "tidy.txt", row.names = FALSE, quote = FALSE)
+write.table(df_final, "tidyset.txt", row.names = FALSE, quote = FALSE)
 #finally cleanup objects created during the process......
 rm(df_merged, df_deature, df_sel, df_final, df_melt, sel_names )
