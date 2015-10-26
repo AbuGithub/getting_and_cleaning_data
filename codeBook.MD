@@ -44,39 +44,39 @@ and standard deviation of the various measurements
  "tBodyGyroJerkStdX": Std. Dev of Body-Gyro-Jerk time along X axis
  "tBodyGyroJerkStdY": Std. Dev of Body-Gyro-Jerk time along Y axis 
  "tBodyGyroJerkStdZ": Std. Dev of Body-Gyro-Jerk time along Z axis
- "tBodyAccMagMean": Mean Body Accerleration Mag time 
- "tBodyAccMagStd": Std. Dev of Body Accerleration Mag time                       
- "tGravityAccMagMean": Mean Gravity-Acceleration-Mag time
- "tGravityAccMagStd": Std. Dev of Gravity-Acceleration-Mag time
- "tBodyAccJerkMagMean": Mean Body-Acceleration-Jerk-Mag time
- "tBodyAccJerkMagStd": Std. Dev of Body-Acceleration-Jerk-Mag time
- "tBodyGyroMagMean": Mean of Body-Gyro-Mag time
- "tBodyGyroMagStd": Std. Dev of Body-Gyro-Mag time          
- "tBodyGyroJerkMagMean": Mean Body-Gyro-Jerk-Mag time 
+ "tBodyAccMagMean": Mean Body Accerleration Magnitude   time 
+ "tBodyAccMagStd": Std. Dev of Body Accerleration Magnitude   time                       
+ "tGravityAccMagMean": Mean Gravity-Acceleration-Magnitude   time
+ "tGravityAccMagStd": Std. Dev of Gravity-Acceleration-Magnitude   time
+ "tBodyAccJerkMagMean": Mean Body-Acceleration-Jerk-Magnitude   time
+ "tBodyAccJerkMagStd": Std. Dev of Body-Acceleration-Jerk-Magnitude   time
+ "tBodyGyroMagMean": Mean of Body-Gyro-Magnitude   time
+ "tBodyGyroMagStd": Std. Dev of Body-Gyro-Magnitude time          
+ "tBodyGyroJerkMagMean": Mean Body-Gyro-Jerk-Magnitude time
  "tBodyGyroJerkMagStd": Std. Dev of Body-Gyro-Jerk-Mag time   
  "fBodyAccMeanX": Mean frequency of Body Acceleration along X axis 
  "fBodyAccMeanY":Mean frequency of Body Acceleration along Y axis          
  "fBodyAccMeanZ": Mean frequency of Body Acceleration along Z axis 
- "fBodyAccStdX": Std. Dev of Body Acceleration frequency  along X axis          
- "fBodyAccStdY": Std. Dev of Body Acceleration frequency  along Y axis       
- "fBodyAccStdZ": Std. Dev of Body Acceleration frequency  along Z axis                 
+ "fBodyAccStdX": Std. Dev of Body Acceleration frequency along X axis          
+ "fBodyAccStdY": Std. Dev of Body Acceleration frequency along Y axis       
+ "fBodyAccStdZ": Std. Dev of Body Acceleration frequency along Z axis                 
  "fBodyAccJerkMeanX": Mean frequncy of Body Acceleratioin Jerk along X axis
  "fBodyAccJerkMeanY": Mean frequncy of Body Acceleratioin Jerk along Y axis      
  "fBodyAccJerkMeanZ": Mean frequncy of Body Acceleratioin Jerk along Z axis 
  "fBodyAccJerkStdX": Std. Dev of Body Acceleratioin Jerk frequency along X axis      
  "fBodyAccJerkStdY": Std. Dev of Body Acceleratioin Jerk frequency along Y axis   
  "fBodyAccJerkStdZ": Std. Dev of  Body Acceleratioin Jerk frequency along Z axis         
- "fBodyGyroMeanX": Mean Body gyro frequency along X axis 
- "fBodyGyroMeanY": Mean Body gyro frequency along Y axis          
- "fBodyGyroMeanZ": Mean Body gyro frequency along Z axis 
+ "fBodyGyroMeanX": Mean Body-Gyro frequency along X axis 
+ "fBodyGyroMeanY": Mean Body-Gyro frequency along Y axis          
+ "fBodyGyroMeanZ": Mean Body-Gyro frequency along Z axis 
  "fBodyGyroStdX": Std. Dev. of Body-Gyro frequnecy along X axis          
  "fBodyGyroStdY": Std. Dev. of Body-Gyro frequnecy along Y axis  
  "fBodyGyroStdZ": Std. Dev. of Body-Gyro frequnecy along Z axis           
- "fBodyAccMagMean": Mean frequnecy of Body-Accerleration-Mag
- "fBodyAccMagStd": Std. Dev. of Body-Acceleration-Mag          
- "fBodyBodyAccJerkMagMean": Mean frequency of Body~Body-Acceleration-Jerk-Mag
- "fBodyBodyAccJerkMagStd":Std. Dev. of Body~Body-Acceleration-Jerk-Mag  
- "fBodyBodyGyroMagMean": Mean frequency of body ~Body-Gyro-Mag
- "fBodyBodyGyroMagStd": Std. Dev. of body ~Body-Gyro-Mag     
- "fBodyBodyGyroJerkMagMean": Mean frequency of Body~Body-Gyro-Jerk-Mag
- "fBodyBodyGyroJerkMagStd" : Std. Dev of Body~Body-Gyro-Jerk-Mag
+ "fBodyAccMagMean": Mean frequnecy of Body-Accerleration-Magnitude  
+ "fBodyAccMagStd": Std. Dev. of Body-Acceleration-Magnitude          
+ "fBodyBodyAccJerkMagMean": Mean frequency of Body~Body-Acceleration-Jerk-Magnitude  
+ "fBodyBodyAccJerkMagStd":Std. Dev. of Body~Body-Acceleration-Jerk-Magnitude  
+ "fBodyBodyGyroMagMean": Mean frequency of body ~Body-Gyro-Magnitude  
+ "fBodyBodyGyroMagStd": Std. Dev. of body ~Body-Gyro-Magnitude       
+ "fBodyBodyGyroJerkMagMean": Mean frequency of Body~Body-Gyro-Jerk-Magnitude  
+ "fBodyBodyGyroJerkMagStd" : Std. Dev of Body~Body-Gyro-Jerk-Magnitude  
