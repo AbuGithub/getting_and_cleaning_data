@@ -15,5 +15,5 @@ The Process:
  8) Change the hyphenated column labels with simpler texts that becomes the labels for tidy dataset
  9) write out the tidy dataset as "tidyset.txt"
  
- CodeBook: Please see the file "CodeBook.MD"
- Final Data: "tidydata.txt"
+ CodeBook: Please see the file "codeBook.MD"
+ Final Data: "tidyset.txt"
